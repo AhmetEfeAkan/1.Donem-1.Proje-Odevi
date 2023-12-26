@@ -11,6 +11,7 @@ Bunlar;
 </ul>
 
 Şeklinde Sıralanır.
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
 
 Kullanıcıya gösterilen Form;<br>
 "Form5_Form_Secim_Ekrani"<br>
