@@ -10,8 +10,8 @@ Bunlar;
   <li>Form5_Form_Secim_Ekrani</li>
 </ul>
 
-Şeklinde Sıralanır.
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
+Şeklinde Sıralanır.<br><br>
+<img src="https://github.com/AhmetEfeAkan/1.Donem-1.Proje-Odevi/blob/159/images/ss1.gif?raw=true" alt="blender" width="900" />
 
 Kullanıcıya gösterilen Form;<br>
 "Form5_Form_Secim_Ekrani"<br>
