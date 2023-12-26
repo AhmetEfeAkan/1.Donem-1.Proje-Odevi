@@ -1,0 +1,58 @@
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe.config
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.AssemblyReference.cache
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form1.resources
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Properties.Resources.resources
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.GenerateResource.cache
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.CoreCompileInputs.cache
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form2_Firinci.resources
+C:\Users\Administator\source\repos\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form3_Cift_Tek.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe.config
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.AssemblyReference.cache
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.SuggestedBindingRedirects.cache
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form1.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form2_Firinci.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form3_Cift_Tek.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form4_Magaza_İndirim.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Properties.Resources.resources
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.GenerateResource.cache
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.CoreCompileInputs.cache
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+D:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form5_Form_Secim_Ekrani.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe.config
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.AssemblyReference.cache
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.SuggestedBindingRedirects.cache
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form1.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form2_Firinci.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form3_Cift_Tek.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form4_Magaza_İndirim.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form5_Form_Secim_Ekrani.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Properties.Resources.resources
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.GenerateResource.cache
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.CoreCompileInputs.cache
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+G:\Nesne Tabanlı Programlama\NTP - Projeler\Performans Projeleri\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe.config
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\bin\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.AssemblyReference.cache
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.SuggestedBindingRedirects.cache
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form1.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form2_Firinci.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form3_Cift_Tek.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form4_Magaza_İndirim.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Form5_Form_Secim_Ekrani.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\_1_Donem_1_proje_Ahmet_efe_AKAN_10_B.Properties.Resources.resources
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.GenerateResource.cache
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.csproj.CoreCompileInputs.cache
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.exe
+C:\Users\BILISIM\Desktop\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\1-Donem_1-proje_Ahmet_efe_AKAN_10_B\obj\Debug\1-Donem_1-proje_Ahmet_efe_AKAN_10_B.pdb
